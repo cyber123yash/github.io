@@ -1,1 +1,3 @@
-# github.io
+# Inqjal.dickssportinggoods.com
+
+#subdomain takeover 
